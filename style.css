@@ -1,0 +1,30 @@
+body{
+    background-color: aqua;
+   
+
+}
+.container{
+ text-align: center;
+  padding: 20px;
+  }
+  .page-logo{
+    width: 40px;
+    position: absolute;
+    top: 20px;
+    right: 30px;
+  }
+    
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgba(240, 27, 27, 0.919);
+        }
+    
+    
+p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+footer{
+    text-align: center;
+    color: rgba(10, 112, 10, 0.911);
+}
